@@ -1,0 +1,51 @@
+index,Age,Gender,Finance_Degree,Science_Degree,WorkExperience,Salary,Distance,Transport,Employee_Status,predicted_transport
+418,28,Male,0,1.0,3,12.3,15.6,,New,Public Transport
+419,26,Female,1,1.0,3,15.1,17.8,,New,Motorbike
+420,31,Male,1,1.0,3,30.6,20.8,,New,Car
+421,31,Male,1,1.0,3,20.6,20.3,,New,Public Transport
+422,23,Female,1,1.0,5,19.3,16.6,,New,Motorbike
+423,28,Male,1,1.0,5,11.0,16.8,,New,Public Transport
+424,23,Male,1,0.0,3,47.6,19.9,,New,Car
+425,34,Female,0,0.0,4,38.5,15.2,,New,Car
+426,22,Female,1,0.0,3,49.8,16.9,,New,Car
+427,30,Male,0,0.0,5,44.4,20.7,,New,Car
+428,26,Male,1,1.0,5,42.5,19.9,,New,Car
+429,23,Male,1,0.0,3,47.4,15.9,,New,Car
+430,30,Male,1,1.0,4,50.7,15.3,,New,Car
+431,27,Male,1,0.0,5,44.5,18.7,,New,Car
+432,24,Female,0,0.0,3,50.7,15.3,,New,Car
+433,30,Female,1,0.0,5,44.4,15.2,,New,Car
+434,27,Male,1,1.0,4,49.3,19.6,,New,Car
+435,29,Male,1,0.0,5,45.4,20.8,,New,Car
+436,24,Female,0,1.0,3,38.5,17.8,,New,Car
+437,35,Female,1,0.0,3,43.6,16.3,,New,Car
+438,35,Female,1,0.0,5,38.2,16.2,,New,Car
+439,35,Male,0,0.0,5,37.3,16.9,,New,Car
+440,31,Female,1,1.0,3,49.8,19.7,,New,Car
+441,30,Male,0,1.0,4,41.6,15.7,,New,Car
+442,27,Male,0,0.0,5,33.3,19.8,,New,Car
+443,34,Male,1,0.0,4,31.7,20.7,,New,Car
+444,24,Male,0,1.0,4,44.5,19.7,,New,Car
+445,23,Female,0,0.0,4,37.6,20.7,,New,Car
+446,23,Male,0,0.0,4,38.3,7.9,,New,Car
+447,32,Male,1,0.0,3,48.2,9.8,,New,Car
+448,35,Male,1,1.0,5,36.6,5.4,,New,Car
+449,26,Female,1,1.0,5,37.2,7.5,,New,Car
+450,35,Male,0,0.0,3,26.1,5.6,,New,Public Transport
+451,30,Female,0,0.0,4,20.0,14.8,,New,Public Transport
+452,30,Female,0,1.0,3,16.0,14.9,,New,Public Transport
+453,30,Female,0,1.0,3,28.3,5.4,,New,Public Transport
+454,24,Male,0,0.0,5,12.3,12.3,,New,Public Transport
+455,25,Male,1,1.0,5,24.3,9.8,,New,Public Transport
+456,30,Female,0,0.0,5,24.5,15.2,,New,Public Transport
+457,34,Male,0,1.0,5,29.0,8.3,,New,Public Transport
+458,29,Female,1,0.0,5,19.2,6.3,,New,Public Transport
+459,26,Female,0,0.0,4,15.0,12.9,,New,Motorbike
+460,32,Female,1,0.0,3,22.0,7.7,,New,Public Transport
+461,31,Female,0,1.0,3,29.0,11.1,,New,Public Transport
+462,28,Male,0,1.0,3,10.7,15.4,,New,Public Transport
+463,24,Female,1,1.0,5,27.3,13.6,,New,Motorbike
+464,25,Female,0,1.0,4,14.1,14.7,,New,Motorbike
+465,26,Female,0,1.0,5,30.3,10.6,,New,Public Transport
+466,28,Male,0,1.0,3,15.4,15.3,,New,Public Transport
+467,32,Female,0,0.0,3,10.6,8.8,,New,Public Transport
